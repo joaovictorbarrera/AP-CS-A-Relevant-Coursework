@@ -1,0 +1,5 @@
+rows = 3
+cols = 2
+width = 3
+a1 = 1
+a2 = ( avg a1 - a1 )

@@ -1,0 +1,21 @@
+4 + 3
+1
+Op:+ Whole:3 Num:0 Den:1
+7 - 1/2
+1
+Op:- Whole:0 Num:1 Den:2
+2_1/3 * 1_2/3
+1
+Op:* Whole:1 Num:2 Den:3
+8 / -17_56/78
+1 2
+Op:/ Whole:-17 Num:56 Den:78
+-3 * -3/-4
+1 2
+Op:* Whole:0 Num:3 Den:4
+0/3 + 0
+1 2
+Op:+ Whole:0 Num:0 Den:1
+1_1/2 - -3_11/13
+1
+Op:- Whole:-3 Num:11 Den:13

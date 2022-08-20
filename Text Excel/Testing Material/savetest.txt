@@ -1,0 +1,6 @@
+rows = 3
+cols = 3
+width = 9
+A1 = 21.1
+B1 = "soda"
+A3 = 420
